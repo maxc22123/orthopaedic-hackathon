@@ -1,11 +1,16 @@
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
-# Ignore specific Jupyter notebook
-data-manipulation-test.ipynb
+# Ignore files
+*.zip
+*.jpg
+*.png
+
 
 # Ignore specific Excel file
-ortho-dataset.xlsx
+*.xlsx
 
-# Ignore images folder
+# Ignore folders
 images/
+test-code/
+
